@@ -8,12 +8,12 @@ let gif=document.getElementById('gif');
 let masterSongName=document.getElementById('masterSongName')
 let songItems=Array.from(document.getElementsByClassName('songItem'))
 let songs=[
-   {songName: "Hukum", filepath:"song/0.mp3",coverpath:"covers/1.jpg"},
-   {songName: "sapta sagaralu", filepath:"song/1.mp3",coverpath:"covers/2.jpg"},
-   {songName: "kalavathi", filepath:"song/2.mp3",coverpath:"covers/3.jpg"},
-   {songName: "lady luck lady luck", filepath:"song/3.mp3",coverpath:"covers/4.jpg"},
-   {songName: "keeda kola", filepath:"song/4.mp3",coverpath:"covers/5.jpg"},
-   {songName: "maa oori polimera", filepath:"song/5.mp3",coverpath:"covers/6.jpg"}
+   {songName: "Warriyo - Mortals", filepath:"song/0.mp3",coverpath:"covers/1.jpg"},
+   {songName: "Cielo-Huma-Huma", filepath:"song/1.mp3",coverpath:"covers/2.jpg"},
+   {songName: "Justin Beiber-song", filepath:"song/2.mp3",coverpath:"covers/3.jpg"},
+   {songName: "Invensible", filepath:"song/3.mp3",coverpath:"covers/4.jpg"},
+   {songName: "Ashique", filepath:"song/4.mp3",coverpath:"covers/5.jpg"},
+   {songName: "Bahubali", filepath:"song/5.mp3",coverpath:"covers/6.jpg"}
 
 
 ]
